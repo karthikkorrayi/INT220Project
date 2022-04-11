@@ -52,7 +52,7 @@
           <span class="icon-bar"></span>
         </button>
         <div class="navbar-header">
-          <a href="cpanel.php" class="navbar-brand headerFont text-lg"><strong>eVoting</strong></a>
+          <a href="cpanel.php" class="navbar-brand headerFont text-lg"><strong>OVS</strong></a>
         </div>
 
         <div class="collapse navbar-collapse" id="example-nav-collapse">

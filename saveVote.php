@@ -57,11 +57,6 @@
 
         <div class="collapse navbar-collapse" id="example-nav-collapse">
           <ul class="nav navbar-nav">
-            <!-- 
-            <li><a href="#featuresTab"><span class="subFont"><strong>Features</strong></span></a></li>
-            <li><a href="#feedbackTab"><span class="subFont"><strong>Feedback</strong></span></a></li>
-            <li><a href="#"><span class="subFont"><strong>About</strong></span></a></li>
-        	-->
           </ul>
           
 
